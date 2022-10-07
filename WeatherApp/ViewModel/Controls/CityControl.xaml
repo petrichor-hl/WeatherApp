@@ -11,7 +11,7 @@
         <materialDesign:Card
             Background="{DynamicResource PrimaryHueLightBrush}"
             Foreground="{DynamicResource PrimaryHueLightForegroundBrush}"
-            Height="73"
+            Height="72"
             Padding="8"
             Margin="0 3 0 3"
             UniformCornerRadius="5"
